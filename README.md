@@ -1,4 +1,4 @@
-# Etsy-Web-Scrape
+# Etsy Competitor Scraping and Analysis
 
 # Project Summary 
 For start-ups in the DIY/ handmade businesses, Etsy is the one of the most well-known place to start. However, competitors are tough these days, and the more you know your them, the better decisions you can make for your own store. This project's client is a newly-established handmade paracord bracelet brand, who want to explore their competitors on the Etsy market. The information and analysis might be beneficial in their costing plan and marketing strategies.
