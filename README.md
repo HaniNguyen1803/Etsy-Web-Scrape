@@ -44,5 +44,5 @@ For start-ups in the DIY/ handmade businesses, Etsy is the one of the most well-
 5. Wordninja: split long words that are originally 2 words but stick together
 6. re/ nltk: Natural Language Tool Kit for Text Analysis
 7. LDA: identify common topics using LDA with Gensim
-8. WordCloud: graph showing words with most occurence
+8. WordCloud: graph showing words with the most occurrence
 
